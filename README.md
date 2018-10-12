@@ -1,18 +1,12 @@
 # nestjs-weather-app
 
-## Description
+Simple Nest.js weather app
 
-based on https://matwrites.com/nestjs-typescript-nodejs-framework/
-
-## Installation
+## Getting started
 
 ```bash
 $ npm install
-```
 
-## Running the app
-
-```bash
 # development
 $ npm run start
 
@@ -23,7 +17,7 @@ $ npm run start:dev
 npm run start:prod
 ```
 
-## Test
+## Running the tests
 
 ```bash
 # unit tests
@@ -35,4 +29,21 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## TODOs
+✅ README\
+❌ Docker\
+❌ Webpack\
+❌ Linter\
+✅ Tests\
+❌ Heroku\
+❌ Frontend\
+
+## License
+
+TBD
+
+## Acknowledgments
+
+Based on https://matwrites.com/nestjs-typescript-nodejs-framework/
 
